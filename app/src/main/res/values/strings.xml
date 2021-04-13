@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">firebase</string>
+    <string name="channel_name">DummyApp channel</string>
+    <string name="channel_description">DummyApp channel description</string>
+    <string name="fcm_message_title">Notification</string>
+    <string name="default_notification_channel_id">firebase_notification_channel</string>
+    <string name="main_info"><![CDATA[Send notification from Firebase Cloud Messaging with Custom Data Key: image_url and Value: <Actual Image URL> and then Click on the notification received to view image]]></string>
+</resources>
